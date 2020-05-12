@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![image 1](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a7a64ed-2a20-4e65-baf6-9a41cc235c07/db12doa-a6a349a8-7169-4107-aba2-a82ff089be6e.png/v1/fill/w_894,h_894,q_75,strp/kanna_kamui_1000x1000_by_artsyrc-db12doa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yYTdhNjRlZC0yYTIwLTRlNjUtYmFmNi05YTQxY2MyMzVjMDcvZGIxMmRvYS1hNmEzNDlhOC03MTY5LTQxMDctYWJhMi1hODJmZjA4OWJlNmUucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.6ifBfThxHF7Ptw012-bpTLwK0sDOZE3pKcpZM2YQDqM)
 Use the left arrow to go back!
